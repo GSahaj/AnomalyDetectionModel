@@ -1,0 +1,1 @@
+This contains the scripts and pipeline for the preprocesssing part of the Machine Learning Model
